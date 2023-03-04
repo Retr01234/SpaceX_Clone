@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+#spacex-logo {
+  width: 200px;
+  height: auto;
+}
+
+header {
+  flex-direction: row;
+}
